@@ -1,16 +1,22 @@
 {
-    "projects": [
-        {
-            "id": 1,
-            "title": "Create new homepage banner",
-            "details": "Lorem ipsum",
-            "complete": false
-        },
-        {
-            "id": 2,
-            "title": "Make marketing email",
-            "details": "Lorem ipsum",
-            "complete": true
-        }
-    ]
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Suspendisse pretium eu nibh a convallis. Sed ut rutrum elit, vitae vulputate elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Nunc in elit ac mi scelerisque luctus ac eu elit. Vivamus tempor venenatis bibendum. In aliquet tellus vel nibh sagittis dapibus. Suspendisse potenti.",
+      "complete": false
+    },
+    {
+      "title": "Node Mastery",
+      "details": "Maecenas fringilla facilisis sapien. Aliquam ut lacus tincidunt, semper justo viverra, condimentum diam. Ut lobortis metus quis elit aliquam blandit. Nunc urna turpis, congue nec nulla non, suscipit egestas massa.",
+      "complete": false,
+      "id": 3
+    }
+  ]
 }
